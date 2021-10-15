@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Android Security</string>
+    <string name="welcome_to_android_security_evaluator">Welcome to Android Security Evaluator</string>
+    <string name="press_start_to_begin_the_evaluation">Press Start to begin the evaluation</string>
+    <string name="start">START</string>
+    <string name="os_version">OS Version</string>
+    <string name="developer_options">Developer Options</string>
+    <string name="device_lock">Device Lock</string>
+    <string name="verified_applications">Verified Applications</string>
+    <string name="network">Network</string>
+    <string name="system_parameters">System Parameters</string>
+    <string name="any_third_party_applications">Any Third-Party Applications</string>
+    <string name="score_calculated">Score Calculated:</string>
+    <string name="score">Score</string>
+    <string name="finalscore">FinalScore</string>
+    <string name="tpascore">TPAScore</string>
+    <string name="netscore">NetScore</string>
+    <string name="vascore">VAScore</string>
+    <string name="dlscore">DLScore</string>
+    <string name="doscore">DOScore</string>
+    <string name="osscore">OSScore</string>
+    <string name="to_calculate_the_security_score_press_check">To Calculate the Security Score Press Check</string>
+    <string name="check">Check</string>
+</resources>
